@@ -3,12 +3,12 @@
 
 #### if OpenAI
 
-# OPENAI_API_KEY: "YOUR_API_KEY"
+OPENAI_API_KEY: "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"
 # OPENAI_API_BASE: "YOUR_API_BASE"
 # OPENAI_PROXY: "http://127.0.0.1:8118"
-OPENAI_API_MODEL: "gpt-4"
+OPENAI_API_MODEL: "gpt-3.5-turbo-16k"
 MAX_TOKENS: 1500
-RPM: 10
+RPM: 200
 
 #### if Anthropic
 #Anthropic_API_KEY: "YOUR_API_KEY"
@@ -24,7 +24,7 @@ RPM: 10
 #### for Search
 
 ## Visit https://serpapi.com/ to get key.
-# SERPAPI_API_KEY: "YOUR_API_KEY"
+SERPAPI_API_KEY: "308dec64e8f9fbf2f6751f59108d634b376dde91423d4a373d9571443d32653c"
 ## Visit https://console.cloud.google.com/apis/credentials to get key.
 # GOOGLE_API_KEY: "YOUR_API_KEY"
 ## Visit https://programmablesearchengine.google.com/controlpanel/create to get id.
